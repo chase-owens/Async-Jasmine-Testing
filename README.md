@@ -9,7 +9,7 @@ For this project, I built test suites and and tests to ensure the Feed Reader wa
 
 I got experience with Jasmine writing a number of tests against a pre-existing application. These test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
-# Instructions to view
+## Instructions to view
 
 To run and view the application click [here](https://chase-owens.github.io/Async-Jasmine-Testing/.) or download the zip file and open the index.html file.
 
