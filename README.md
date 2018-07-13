@@ -8,7 +8,7 @@ For this project, I built test suites and and tests to ensure the Feed Reader wa
 
 ## What did I learn?
 
-I got experience with Jasmine writing a number of tests against a pre-existing application. These test the underlying business logic of the application as well as the event handling and DOM manipulation.
+Not only did I get experience working with asynchronous code and running asynchronous and synchronous tests, I also got experience with Jasmine writing a number of tests against a pre-existing application. These test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
 ## Instructions to view
 
