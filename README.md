@@ -4,6 +4,7 @@ In this project, I was given a web-based application that reads RSS feeds. The o
 
 For this project, I built test suites and and tests to ensure the Feed Reader was performing as expected.
 
+![JasmineTests](https://farm1.staticflickr.com/916/42477662665_0485d9559f_b.jpg)
 
 ## What did I learn?
 
@@ -11,7 +12,7 @@ I got experience with Jasmine writing a number of tests against a pre-existing a
 
 ## Instructions to view
 
-To run and view the application click [here](https://chase-owens.github.io/Async-Jasmine-Testing/.) or download the zip file and open the index.html file.
+To run and view the application, download the zip file and open the index.html file.
 
 Thanks for looking.
 
